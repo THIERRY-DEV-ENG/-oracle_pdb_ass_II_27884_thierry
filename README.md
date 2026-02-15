@@ -364,16 +364,6 @@ This work represents my genuine effort and understanding of Oracle Database Admi
 
 **"Excellence is never an accident; it is the result of discipline, commitment, and integrity."**
 
----
 
-**Total Time:** ~8 hours (setup, execution, troubleshooting, documentation)  
-**SQL Commands:** 50+  
-**Screenshots:** 9  
-
----
-
-**© 2026 Thierry - Student ID: 27884**  
-Oracle Database 21c Enterprise Edition  
-All work performed independently and documented authentically
 
 </div>
