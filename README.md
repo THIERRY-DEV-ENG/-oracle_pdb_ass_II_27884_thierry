@@ -347,16 +347,7 @@ This work represents my genuine effort and understanding of Oracle Database Admi
 
 ---
 
-## 🔗 Submission Information
 
-**Repository:** https://github.com/[YOUR_USERNAME]/oracle_pdb_ass_II_27884_thierry  
-**Repository Visibility:** PUBLIC ✅  
-**PDB Created:** th_pdb_27884  
-**User Created:** thierry_plsqlauca_27884  
-**Temporary PDB:** th_to_delete_pdb_27884 (deleted)  
-**Issues Encountered:** Yes - FILE_NAME_CONVERT path error (resolved)  
-
----
 
 <div align="center">
 
