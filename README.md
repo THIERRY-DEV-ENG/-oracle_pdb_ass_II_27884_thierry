@@ -1514,15 +1514,7 @@ FROM dual;
 
 ---
 
-## Submission Information
-
-**GitHub Repository:** https://github.com/[YOUR_USERNAME]/oracle_pdb_ass_II_27884_thierry  
-**Repository Visibility:** PUBLIC ✅  
-**Primary PDB Created:** `th_pdb_27884`  
-**User Created:** `thierry_plsqlauca_27884`  
-**Temporary PDB Created & Deleted:** `th_to_delete_pdb_27884`  
-**OEM Dashboard:** Configured and accessible  
-**Issues Encountered:** Yes - FILE_NAME_CONVERT path error (resolved)  
+ 
 
 ---
 
@@ -1555,4 +1547,6 @@ oracle_pdb_ass_II_27884_thierry/
 ```
 
 ---
+## Professional & Ethical Note
+Excellence is never an accident; it is the result of discipline, commitment, and integrity.
 
