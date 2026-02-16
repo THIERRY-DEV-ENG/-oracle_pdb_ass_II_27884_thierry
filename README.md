@@ -8,7 +8,7 @@
 **Student Name:** Thierry  
 **Student ID:** 27884  
 **Submission Date:** February 16, 2026  
-**Course:** Oracle Database Administration  
+**Course:** Database Development with PL/SQL (INSY 8311) 
 **Database Version:** Oracle Database 21c Enterprise Edition Release 21.3.0.0.0
 
 ![Oracle](https://img.shields.io/badge/Oracle-21c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
